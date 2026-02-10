@@ -36,10 +36,9 @@ This project solves the problem by automating resume analysis and ranking using 
 ## ⚙️ How the System Works
 1. Upload resumes in CSV or Word (DOCX) format  
 2. Extract and clean text from resumes  
-3. Extract relevant skills  
-4. Convert text into numerical vectors using TF-IDF  
-5. Measure similarity with the job description using cosine similarity  
-6. Rank candidates based on match percentage  
+3. Extract relevant skills   
+4. Measure similarity with the job description using cosine similarity  
+5. Rank candidates based on match percentage  
 
 ---
 
