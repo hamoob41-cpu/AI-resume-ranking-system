@@ -18,7 +18,6 @@ This project solves the problem by automating resume analysis and ranking using 
 - Supports multiple resume formats (CSV and DOCX)
 - Handles multiple resumes at once
 - Automatically ranks candidates based on job relevance
-- Uses TF-IDF and Cosine Similarity
 - Simple and scalable design
 
 ---
